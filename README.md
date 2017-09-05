@@ -5,10 +5,14 @@
 	<p>Browsersync: https://browsersync.io/</p>
 	<p>Github: https://github.com/</p>
 	<p>Autor: https://www.webdelin.de</p>
+
 ---
+
 SPEED HTML Entwicklungsumgebung von webdelin.de<br>
 <a target="_blank" href="http://www.youtube.com/watch?v=SzEjbi9h7KU">Anleitungsvideo</a>
----
+
+-----
+
 <strong>Entwicklungsumgebung der Routineaufgaben für Webentwicklung zu automatisieren hilft.</strong><br>
 Aufgaben wie zum Beispiel:
 <ol>
