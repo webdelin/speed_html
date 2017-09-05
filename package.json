@@ -1,7 +1,7 @@
 {
-  "name": "entwicklungsumgebung.loc",
+  "name": "speedhtml",
   "version": "2.0.0",
-  "description": "HTML/PHP Entwicklungsumgebung für Live-Expert",
+  "description": "HTML/PHP Entwicklungsumgebung von webdelin.de",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "Entwicklungsumgebung"
   ],
   "author": "Wendelin Gerein",
-  "license": "Live-Expert",
+  "license": "Free webdelin.de",
   "devDependencies": {
     "browser-sync": "^2.18.5",
     "del": "^2.2.2",
