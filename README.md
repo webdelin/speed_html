@@ -1,12 +1,12 @@
 ﻿<h1>Hauptressource:</h1>
-	Node.js: https://nodejs.org/de/
-	Gulp: http://gulpjs.com/
-	Bower: http://bower.io/
-	Browsersync: https://browsersync.io/
-	Github: https://github.com/
-	Autor: https://www.webdelin.de
+	<p>Node.js: https://nodejs.org/de/</p>
+	<p>Gulp: http://gulpjs.com/</p>
+	<p>Bower: http://bower.io/</p>
+	<p>Browsersync: https://browsersync.io/</p>
+	<p>Github: https://github.com/</p>
+	<p>Autor: https://www.webdelin.de</p>
 ===
-[![HTML SPEED Entwicklungsumgebung von webdelin.de](http://img.youtube.com/vi/SzEjbi9h7KU/0.jpg)](http://www.youtube.com/watch?v=SzEjbi9h7KU)
+[![SPEED HTML Entwicklungsumgebung von webdelin.de](http://img.youtube.com/vi/SzEjbi9h7KU/0.jpg)](http://www.youtube.com/watch?v=SzEjbi9h7KU)
 ---
 <strong>Entwicklungsumgebung der Routineaufgaben für Webentwicklung zu automatisieren hilft.</strong><br>
 Aufgaben wie zum Beispiel:
@@ -39,12 +39,3 @@ Aufgaben wie zum Beispiel:
 Dann diese befehl in der konsole von Projektordner ausführen.<br>
 <code>git init</code> oder <code>set PATH=%PATH%;C:\Program Files\Git\bin;</code>
 ---
-<h4>Repository</h4>
-<ol>
-	<li><code>echo "# Entwicklungsumgebung" >> README.md</code></li>
-	<li><code>git init</code></li>
-	<li><code>git add README.md</code></li>
-	<li><code>git commit -m "first commit"</code></li>
-	<li><code>git remote add origin https://github.com/nextlive/Entwicklungsumgebung.git</code></li>
-	<li><code>git push -u origin master</code></li>
-</ol>"# speed_html" 
