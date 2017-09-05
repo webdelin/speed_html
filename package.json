@@ -1,5 +1,5 @@
 {
-  "name": "speedhtml",
+  "name": "speed_html",
   "version": "2.0.0",
   "description": "HTML/PHP Entwicklungsumgebung von webdelin.de",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "Entwicklungsumgebung"
   ],
   "author": "Wendelin Gerein",
-  "license": "Free webdelin.de",
+  "license": "Free for All webdelin.de",
   "devDependencies": {
     "browser-sync": "^2.18.5",
     "del": "^2.2.2",

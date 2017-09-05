@@ -28,8 +28,8 @@ gulp.task('scripts', function() {
 
 gulp.task('browser-sync', function() {
 	browserSync({
-		proxy: "umgebung.dev",
-		//server: { baseDir: 'app'},
+		//proxy: "umgebung.dev",
+		server: { baseDir: 'app'},
 		notify: false
 	});
 });
